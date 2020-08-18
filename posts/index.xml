@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Develpoment blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2020 14:13:32 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2020 15:59:07 +0900</lastBuildDate>
     
 	<atom:link href="https://rollco77.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>코드를 포함한 블로그작성</title>
+      <link>https://rollco77.github.io/posts/codecontents/</link>
+      <pubDate>Tue, 18 Aug 2020 15:59:07 +0900</pubDate>
+      
+      <guid>https://rollco77.github.io/posts/codecontents/</guid>
+      <description>코드 포함한 게시글 작성 코드를 포함한 게시글을 마크다운문법을 통해 작성해보자 예) html 문법을 markdown 문법을 사용하여 게시 &amp;lt;a href=&amp;#34;rollco7.github.io&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt; Rollco7 Blog&amp;lt;/a&amp;gt; 위의 코드는 다음과 같이 작성할 수 있</description>
+    </item>
     
     <item>
       <title>Test</title>
