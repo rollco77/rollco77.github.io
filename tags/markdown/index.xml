@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on Develpoment blog</title>
+    <link>https://rollco77.github.io/tags/markdown/</link>
+    <description>Recent content in markdown on Develpoment blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Aug 2020 17:13:52 +0900</lastBuildDate>
+    
+	<atom:link href="https://rollco77.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>마크다운 사용방법</title>
+      <link>https://rollco77.github.io/posts/markdown-howtouse/</link>
+      <pubDate>Tue, 18 Aug 2020 17:13:52 +0900</pubDate>
+      
+      <guid>https://rollco77.github.io/posts/markdown-howtouse/</guid>
+      <description>MarkDown 이란? 마크다운(MarkDown)에 대해서 알고 계신가요? 파일 확장자가 .md로 된 파일을 보셨나요? 웹 개발을 하면서 아마 README.md라는 이름</description>
+    </item>
+    
+  </channel>
+</rss>

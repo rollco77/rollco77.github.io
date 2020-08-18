@@ -6,17 +6,26 @@
     <description>Recent content in github blog on Develpoment blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2020 15:59:07 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2020 17:13:52 +0900</lastBuildDate>
     
 	<atom:link href="https://rollco77.github.io/tags/github-blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>마크다운 사용방법</title>
+      <link>https://rollco77.github.io/posts/markdown-howtouse/</link>
+      <pubDate>Tue, 18 Aug 2020 17:13:52 +0900</pubDate>
+      
+      <guid>https://rollco77.github.io/posts/markdown-howtouse/</guid>
+      <description>MarkDown 이란? 마크다운(MarkDown)에 대해서 알고 계신가요? 파일 확장자가 .md로 된 파일을 보셨나요? 웹 개발을 하면서 아마 README.md라는 이름</description>
+    </item>
+    
+    <item>
       <title>코드를 포함한 블로그작성</title>
-      <link>https://rollco77.github.io/posts/codecontents/</link>
+      <link>https://rollco77.github.io/posts/markdown-codecontents/</link>
       <pubDate>Tue, 18 Aug 2020 15:59:07 +0900</pubDate>
       
-      <guid>https://rollco77.github.io/posts/codecontents/</guid>
+      <guid>https://rollco77.github.io/posts/markdown-codecontents/</guid>
       <description>코드 포함한 게시글 작성 코드를 포함한 게시글을 마크다운문법을 통해 작성해보자 예) html 문법을 markdown 문법을 사용하여 게시 &amp;lt;a href=&amp;#34;rollco7.github.io&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt; Rollco7 Blog&amp;lt;/a&amp;gt; 위의 코드는 다음과 같이 작성할 수 있</description>
     </item>
     
