@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Develpoment blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2020 13:41:40 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2020 14:37:32 +0900</lastBuildDate>
     
 	<atom:link href="https://rollco77.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>study 과제들</title>
+      <link>https://rollco77.github.io/posts/todo-study/</link>
+      <pubDate>Thu, 20 Aug 2020 14:37:32 +0900</pubDate>
+      
+      <guid>https://rollco77.github.io/posts/todo-study/</guid>
+      <description>Spring @Async Annotation 사용 Thread 구현 https://medium.com/@pakss328/spring-async-annotation을-활용한-thre</description>
+    </item>
     
     <item>
       <title>java 메모리분석</title>
