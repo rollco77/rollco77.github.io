@@ -1,61 +1,149 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Whisper Docs on Hugo Whisper Theme</title>
-    <link>www.example.com/</link>
-    <description>Recent content in Hugo Whisper Docs on Hugo Whisper Theme</description>
+    <title>Clarity</title>
+    <link>https://rollco77.github.io/</link>
+    <description>Recent content on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rollco77.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Install Hugo</title>
-      <link>www.example.com/docs/install-hugo/</link>
+      <link>https://rollco77.github.io/docs/install-hugo/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>www.example.com/docs/install-hugo/</guid>
+      <guid>https://rollco77.github.io/docs/install-hugo/</guid>
       <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets. Please make sure you have the Hugo Extended version installed. If you are not using the extended version this theme will not not compile.
+1hugo version </description>
     </item>
     
     <item>
       <title>Install Theme</title>
-      <link>www.example.com/docs/install-theme/</link>
+      <link>https://rollco77.github.io/docs/install-theme/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>www.example.com/docs/install-theme/</guid>
-      <description>Create a new Hugo site hugo new site mynewsite This will create a fresh Hugo site in the folder mynewsite.
-Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes</description>
+      <guid>https://rollco77.github.io/docs/install-theme/</guid>
+      <description>Create a new Hugo site 1hugo new site mynewsite This will create a fresh Hugo site in the folder mynewsite.
+Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes
+Install with Git 1cd mynewsite 2cd themes 3git clone https://github.com/jugglerx/hugo-whisper-theme.git Install from .zip file You can download the .zip file located here https://github.com/JugglerX/hugo-whisper-theme/archive/master.zip.
+Extract the downloaded .zip inside the themes folder. Rename the extracted folder from hugo-whisper-theme-master -&amp;gt; hugo-whisper-theme.</description>
     </item>
     
     <item>
       <title>Configuration</title>
-      <link>www.example.com/docs/configure/</link>
+      <link>https://rollco77.github.io/docs/configure/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
       
-      <guid>www.example.com/docs/configure/</guid>
+      <guid>https://rollco77.github.io/docs/configure/</guid>
       <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
     </item>
     
     <item>
       <title>Specimen</title>
-      <link>www.example.com/docs/specimen/</link>
+      <link>https://rollco77.github.io/docs/specimen/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>www.example.com/docs/specimen/</guid>
-      <description>Markdown Test Page  Headings Paragraphs Blockquotes Lists Horizontal rule Table Code Inline elements   Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor.</description>
+      <guid>https://rollco77.github.io/docs/specimen/</guid>
+      <description>Markdown Test Page  Headings Paragraphs Blockquotes Lists Horizontal rule Table Code Inline elements   Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat commodo id sunt. Nostrud enim ad commodo incididunt cupidatat in ullamco ullamco Lorem cupidatat velit enim et Lorem.
+Heading two Aute officia nulla deserunt do deserunt cillum velit magna.</description>
     </item>
     
     <item>
       <title>Hugo Whisper</title>
-      <link>www.example.com/docs/example/</link>
+      <link>https://rollco77.github.io/docs/example/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>www.example.com/docs/example/</guid>
+      <guid>https://rollco77.github.io/docs/example/</guid>
       <description>&lt;p&gt;Whisper is a minimal documentation theme built for Hugo. The design &amp;amp; functionality is intentionally minimal.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>java 메모리분석</title>
+      <link>https://rollco77.github.io/post/analysisjavamemory/</link>
+      <pubDate>Thu, 20 Aug 2020 13:41:40 +0900</pubDate>
+      
+      <guid>https://rollco77.github.io/post/analysisjavamemory/</guid>
+      <description>[java 메모리분석] (http://honeymon.io/tech/2019/05/30/java-memory-leak-analysis.html)</description>
+    </item>
+    
+    <item>
+      <title>코드를 포함한 블로그작성</title>
+      <link>https://rollco77.github.io/post/markdown-codecontents/</link>
+      <pubDate>Tue, 18 Aug 2020 15:59:07 +0900</pubDate>
+      
+      <guid>https://rollco77.github.io/post/markdown-codecontents/</guid>
+      <description>코드 포함한 게시글 작성 코드를 포함한 게시글을 마크다운문법을 통해 작성해보자 예) html 문법을 markdown 문법을 사용하여 게시
+1&amp;lt;!doctype html&amp;gt; 2&amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; 3&amp;lt;head&amp;gt; 4 &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; 5 &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt; 6&amp;lt;/head&amp;gt; 7&amp;lt;body&amp;gt; 8 &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt; 9&amp;lt;/body&amp;gt; 10&amp;lt;!-- this line is extraneous 2Error from server (Forbidden): deployments.apps is forbidden: User &amp;#34;chiptest&amp;#34; cannot create resource &amp;#34;deployments&amp;#34; in API group &amp;#34;apps&amp;#34; in the namespace &amp;#34;default&amp;#34; --&amp;gt; 11&amp;lt;/html&amp;gt; 1&amp;lt;a href=&amp;#34;rollco7.github.io&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt; Rollco7 Blog&amp;lt;/a&amp;gt; 위의 코드는 다음과 같이 작성할 수 있다.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rollco77.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rollco77.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://rollco77.github.io/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rollco77.github.io/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://rollco77.github.io/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rollco77.github.io/post/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://rollco77.github.io/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rollco77.github.io/post/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://rollco77.github.io/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rollco77.github.io/post/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://rollco77.github.io/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rollco77.github.io/post/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://rollco77.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rollco77.github.io/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
     </item>
     
   </channel>

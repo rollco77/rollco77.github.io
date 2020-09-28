@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Clarity</title>
+    <link>https://rollco77.github.io/post/</link>
+    <description>Recent content in Posts on Clarity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 20 Aug 2020 13:41:40 +0900</lastBuildDate>
+    
+	<atom:link href="https://rollco77.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>java 메모리분석</title>
+      <link>https://rollco77.github.io/post/analysisjavamemory/</link>
+      <pubDate>Thu, 20 Aug 2020 13:41:40 +0900</pubDate>
+      
+      <guid>https://rollco77.github.io/post/analysisjavamemory/</guid>
+      <description>[java 메모리분석] (http://honeymon.io/tech/2019/05/30/java-memory-leak-analysis.html)</description>
+    </item>
+    
+    <item>
+      <title>코드를 포함한 블로그작성</title>
+      <link>https://rollco77.github.io/post/markdown-codecontents/</link>
+      <pubDate>Tue, 18 Aug 2020 15:59:07 +0900</pubDate>
+      
+      <guid>https://rollco77.github.io/post/markdown-codecontents/</guid>
+      <description>코드 포함한 게시글 작성 코드를 포함한 게시글을 마크다운문법을 통해 작성해보자 예) html 문법을 markdown 문법을 사용하여 게시
+1&amp;lt;!doctype html&amp;gt; 2&amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; 3&amp;lt;head&amp;gt; 4 &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; 5 &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt; 6&amp;lt;/head&amp;gt; 7&amp;lt;body&amp;gt; 8 &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt; 9&amp;lt;/body&amp;gt; 10&amp;lt;!-- this line is extraneous 2Error from server (Forbidden): deployments.apps is forbidden: User &amp;#34;chiptest&amp;#34; cannot create resource &amp;#34;deployments&amp;#34; in API group &amp;#34;apps&amp;#34; in the namespace &amp;#34;default&amp;#34; --&amp;gt; 11&amp;lt;/html&amp;gt; 1&amp;lt;a href=&amp;#34;rollco7.github.io&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt; Rollco7 Blog&amp;lt;/a&amp;gt; 위의 코드는 다음과 같이 작성할 수 있다.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://rollco77.github.io/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rollco77.github.io/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://rollco77.github.io/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rollco77.github.io/post/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://rollco77.github.io/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rollco77.github.io/post/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://rollco77.github.io/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rollco77.github.io/post/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://rollco77.github.io/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rollco77.github.io/post/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

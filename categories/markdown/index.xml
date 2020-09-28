@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MarkDown on Develpoment blog</title>
+    <title>MarkDown on Clarity</title>
     <link>https://rollco77.github.io/categories/markdown/</link>
-    <description>Recent content in MarkDown on Develpoment blog</description>
+    <description>Recent content in MarkDown on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2020 17:13:52 +0900</lastBuildDate>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 18 Aug 2020 15:59:07 +0900</lastBuildDate>
     
 	<atom:link href="https://rollco77.github.io/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>마크다운 사용방법</title>
-      <link>https://rollco77.github.io/posts/markdown-howtouse/</link>
-      <pubDate>Tue, 18 Aug 2020 17:13:52 +0900</pubDate>
-      
-      <guid>https://rollco77.github.io/posts/markdown-howtouse/</guid>
-      <description>MarkDown 이란? 마크다운(MarkDown)에 대해서 알고 계신가요? 파일 확장자가 .md로 된 파일을 보셨나요? 웹 개발을 하면서 아마 README.md라는 이름</description>
-    </item>
-    
-    <item>
       <title>코드를 포함한 블로그작성</title>
-      <link>https://rollco77.github.io/posts/markdown-codecontents/</link>
+      <link>https://rollco77.github.io/post/markdown-codecontents/</link>
       <pubDate>Tue, 18 Aug 2020 15:59:07 +0900</pubDate>
       
-      <guid>https://rollco77.github.io/posts/markdown-codecontents/</guid>
-      <description>코드 포함한 게시글 작성 코드를 포함한 게시글을 마크다운문법을 통해 작성해보자 예) html 문법을 markdown 문법을 사용하여 게시 &amp;lt;a href=&amp;#34;rollco7.github.io&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt; Rollco7 Blog&amp;lt;/a&amp;gt; 위의 코드는 다음과 같이 작성할 수 있</description>
+      <guid>https://rollco77.github.io/post/markdown-codecontents/</guid>
+      <description>코드 포함한 게시글 작성 코드를 포함한 게시글을 마크다운문법을 통해 작성해보자 예) html 문법을 markdown 문법을 사용하여 게시
+1&amp;lt;!doctype html&amp;gt; 2&amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; 3&amp;lt;head&amp;gt; 4 &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; 5 &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt; 6&amp;lt;/head&amp;gt; 7&amp;lt;body&amp;gt; 8 &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt; 9&amp;lt;/body&amp;gt; 10&amp;lt;!-- this line is extraneous 2Error from server (Forbidden): deployments.apps is forbidden: User &amp;#34;chiptest&amp;#34; cannot create resource &amp;#34;deployments&amp;#34; in API group &amp;#34;apps&amp;#34; in the namespace &amp;#34;default&amp;#34; --&amp;gt; 11&amp;lt;/html&amp;gt; 1&amp;lt;a href=&amp;#34;rollco7.github.io&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt; Rollco7 Blog&amp;lt;/a&amp;gt; 위의 코드는 다음과 같이 작성할 수 있다.</description>
     </item>
     
   </channel>
